@@ -1,0 +1,28 @@
+img {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 500px;
+}
+
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#btn{
+
+    position : relative;
+    top: 800px;
+    background-color: aqua;
+
+}
+
+p{
+    font-size: 30px;
+    position: relative;
+    left: 400px;
+}
